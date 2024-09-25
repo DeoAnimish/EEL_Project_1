@@ -16,7 +16,7 @@ int main()
       printf("-            -\n");
       printf("-            -\n");
       printf("-----n||p-----\n");
-      printf("direction:-->\n");
+      printf("direction of current:-->\n");
       printf("Choose Out of Following options\n");
       printf("type 0 for turning the circuit off\n");
       printf("Type 1 for keeping the circuit as it is\n");
@@ -44,7 +44,7 @@ int main()
       printf("-            -\n");
       printf("-            -\n");
       printf("-----p||n-----\n");
-      printf("direction:<--\n");
+      printf("direction of current:<--\n");
       printf("Choose Out of Following options\n");
       printf("type 0 for turning the circuit off\n");
       printf("Type 1 for keeping the circuit as it is\n");
