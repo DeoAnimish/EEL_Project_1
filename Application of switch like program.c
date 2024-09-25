@@ -11,8 +11,12 @@ int main()
    {
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is On\n");
-      printf("--------------");
-      printf("direction:-->");
+      printf("--------------\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-----n||p-----\n");
+      printf("direction:-->\n");
       printf("Choose Out of Following options\n");
       printf("type 0 for turning the circuit off\n");
       printf("Type 1 for keeping the circuit as it is\n");
@@ -35,8 +39,12 @@ int main()
    {
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is On But flowing In Opposite Direction\n");
-      printf("--------------");
-      printf("direction:<--");
+      printf("--------------\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-----p||n-----\n");
+      printf("direction:<--\n");
       printf("Choose Out of Following options\n");
       printf("type 0 for turning the circuit off\n");
       printf("Type 1 for keeping the circuit as it is\n");
@@ -63,7 +71,12 @@ int main()
    {
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is Switched Off \n");
-      printf("-----/------");
+      printf("-------/------\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-            -\n");
+      printf("-----n||p-----\n");
+      printf("The circuit is broken");
       printf("Choose Out of Following options\n");
       printf("type 0 to keep the circuit off\n");
       printf("Type 1 for turning the circuit On\n");
