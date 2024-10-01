@@ -52,7 +52,7 @@ int main()
       scanf("%d",&b);
       if (b==1)
       {
-         printf("Circuit Is Kept On In Reverse Direction\n");
+         printf("Circuit Is Kept On\n");
       }
       else if (b==0)
       {
@@ -84,11 +84,11 @@ int main()
       scanf("%d",&b);
       if (b==0)
       {
-         printf("Circuit Is Kept off\n");
+         printf("Circuit Is Turned off\n");
       }
       else if (b==2)
       {
-         printf("Circuit Is on in anticlockwise");
+         printf("Circuit Is On in anticlockwise");
       }
       else if (b==1)
       {
