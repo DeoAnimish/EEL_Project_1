@@ -12,9 +12,9 @@ int main()
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is On\n");
       printf("--------------\n");
-      printf("-            -\n");
-      printf("-            -\n");
-      printf("-            -\n");
+      printf("|            |\n");
+      printf("|            |\n");
+      printf("|            |\n");
       printf("-----n||p-----\n");
       printf("direction of current:-->\n");
       printf("Choose Out of Following options\n");
@@ -40,9 +40,9 @@ int main()
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is On But flowing In Opposite Direction\n");
       printf("--------------\n");
-      printf("-            -\n");
-      printf("-            -\n");
-      printf("-            -\n");
+      printf("|            |\n");
+      printf("|            |\n");
+      printf("|            |\n");
       printf("-----p||n-----\n");
       printf("direction of current:<--\n");
       printf("Choose Out of Following options\n");
@@ -72,9 +72,9 @@ int main()
       printf("You Have Entered %d\n",a);
       printf("The Circuit Is Switched Off \n");
       printf("-------/------\n");
-      printf("-            -\n");
-      printf("-            -\n");
-      printf("-            -\n");
+      printf("|            |\n");
+      printf("|            |\n");
+      printf("|            |\n");
       printf("-----n||p-----\n");
       printf("The circuit is broken");
       printf("Choose Out of Following options\n");
